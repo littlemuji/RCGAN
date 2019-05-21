@@ -46,7 +46,7 @@ Infrared and visible images are a pair of multi- source multi-sensors images. Ho
    `dataroot_IR`:  the path of infrared dataset for train or validation
    `dataroot_PF`:  the path of pre-fused dataset for train or validation
    
-   More settings such as `n_workers`(threads), `batch_size` and other hy-parameters are set to default. You may modify them for your own sack. 
+   More settings such as `n_workers`(threads), `batch_size` and other hy-parameters are set to default. You may modify them for your own sake. 
    
    <u>Tips:</u>
    
